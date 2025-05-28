@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-BMAbX1Y_.js";const o=function(){return e.jsxs("div",{children:[e.jsx("h1",{children:"Map Test"}),e.jsx("p",{children:"This is a test page for the map component. It will be used to test different map libraries and features."}),e.jsx(t,{to:"/map-test/maplibre",children:"MapLibre Boston Zip Codes Map"})]})};export{o as component};

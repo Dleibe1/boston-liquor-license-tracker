@@ -1,0 +1,1 @@
+import{j as s}from"./index-BMAbX1Y_.js";const e=()=>s.jsxs("div",{className:"resourcesPage",children:[s.jsx("h1",{children:"Resources"}),s.jsx("p",{children:"This is the Resources page."})]}),r=e;export{r as component};

@@ -1,0 +1,1 @@
+import{j as a}from"./index-BMAbX1Y_.js";const s=()=>a.jsxs("div",{className:"databasePage",children:[a.jsx("h1",{children:"Database"}),a.jsx("p",{children:"This is the Database page."})]}),t=s;export{t as component};

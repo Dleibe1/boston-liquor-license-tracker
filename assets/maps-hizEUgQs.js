@@ -1,0 +1,1 @@
+import{j as s}from"./index-BMAbX1Y_.js";const e=()=>s.jsxs("div",{className:"mapsPage",children:[s.jsx("h1",{children:"Maps"}),s.jsx("p",{children:"This is the Maps page."})]}),n=e;export{n as component};
